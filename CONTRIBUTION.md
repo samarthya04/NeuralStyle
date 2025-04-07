@@ -385,6 +385,3 @@ if __name__ == "__main__":
 - **Scope:** This `CONTRIBUTION.md` reflects the standalone script provided. The Flask-based web deployment (mentioned by Samarthya) is not included here but is part of the project’s broader scope.
 - **Line Numbers:** References to line numbers align with the structure of the provided standalone script.
 
---- 
-
-This `CONTRIBUTION.md` can be placed in your project repository to document each person’s work clearly. Let me know if you’d like adjustments, such as including the Flask version contributions or adding more details!
