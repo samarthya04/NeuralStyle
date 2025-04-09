@@ -119,8 +119,9 @@ Get a free API key from [serpapi.com/users/sign_up](https://serpapi.com/users/si
 
 ## 📸 Example Output
 
-![project1](https://github.com/user-attachments/assets/7ed694a0-7a2e-4f89-a6b8-7292f775a981)
+![Screenshot 2024-12-09 222717](https://github.com/user-attachments/assets/7a5d984d-5364-4473-a2cd-7e4000888934)
 
+![Screenshot 2024-12-09 223150](https://github.com/user-attachments/assets/cbeddebc-7bd5-49f5-8d2e-5a28a804f5ff)
 
 ---
 
