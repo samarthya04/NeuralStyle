@@ -119,7 +119,7 @@ Get a free API key from [serpapi.com/users/sign_up](https://serpapi.com/users/si
 
 ## 📸 Example Output
 
-![Example Result](preview_sample.jpg) <!-- Add your example result here -->
+![Example Result](styled_image.jpg) <!-- Add your example result here -->
 
 ---
 
