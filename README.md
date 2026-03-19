@@ -21,7 +21,7 @@ This project performs **Neural Style Transfer (NST)** using PyTorch and VGG19 to
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/neural-style-transfer-metrics.git
+git clone https://github.com/samarthya04/NeuralStyle.git
 cd neural-style-transfer-metrics
 ```
 
