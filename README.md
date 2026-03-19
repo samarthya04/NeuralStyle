@@ -1,4 +1,4 @@
-# 🖼️ Image Styling using Neural Style Transfer
+# Image Styling using Neural Style Transfer
 This project performs **Neural Style Transfer (NST)** using PyTorch and VGG19 to blend the content of one image with the artistic style of another, fetched directly from Google Images via SerpAPI. It also computes key metrics to evaluate style intensity, content preservation, and style similarity.
 
 ---
